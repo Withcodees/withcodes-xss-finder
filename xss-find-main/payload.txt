@@ -1,0 +1,5 @@
+<script>alert("xss bulundu");</script>
+<h1>xss
+<script>document.write("xss bulundu");</script>
+<b>xss bulundu</b>
+<scr<script>ipt>alert("xss bulundu")</scr</script>ipt>
